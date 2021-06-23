@@ -2,6 +2,8 @@
 ## Description 
 > This Weather Dashboard application uses and queries a weather API to display the forcast for the desired city. 
 
+[](/assets/SS1.JPG)
+
 ## Table of Contents 
 1. [Installation](#installation) 
 2. [Usage](#usage) 
